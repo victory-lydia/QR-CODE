@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.one{
+    height: 100vh;
+    width: 1440px;
+    background: hsl(212, 45%, 89%);
+    align-items: center;
+}
+
+.two{
+    background-color: hsl(0, 0%, 100%);
+    width: 18em;
+    height: 30em;
+    
+    margin-top:3em ;
+    margin-left:30em ;
+    margin-bottom:10em ;
+    margin-right: 10em;
+    
+     position: absolute;
+
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding: 1rem;
+
+    border-radius: 0.5em;
+}
+
+.four{
+    /*
+    height: 14em;
+    width: 14em;
+    top: -5em;
+    border-radius: .5em;
+    bottom: 5em;
+    */
+    width: 100%;
+    border-radius: 0.5em;
+}
+
+p{
+    text-align: center;
+    font-family: 'Barlow', sans-serif;
+}
+
+.five{
+    Font-size : 15px;
+    font-weight: 700;
+}
+
+.six{
+    font-size: 15px;
+    font-weight: 400;
+}
